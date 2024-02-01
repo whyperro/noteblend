@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Noteblend
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este proyecto es un clon de Notion desarrollado con Next.js, Convex, Tailwind CSS, Clerk y ShadCN. Proporciona una experiencia de usuario similar a Notion, permitiendo a los usuarios crear, organizar y colaborar en notas de manera eficiente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Características
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Interfaz Intuitiva: La interfaz de usuario está diseñada para ser intuitiva y fácil de usar, brindando una experiencia similar a Notion.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Edición en Tiempo Real: Los cambios realizados por un usuario se reflejan en tiempo real para permitir una colaboración efectiva.
 
-## Learn More
+- Gestión de Documentos: Organiza tus notas mediante la creación de documentos y la asignación de diferentes tipos de contenido.
 
-To learn more about Next.js, take a look at the following resources:
+- Autenticación Segura: Clerk se utiliza para la autenticación, garantizando un acceso seguro y protegiendo la privacidad del usuario.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Estilo Personalizado con Tailwind y ShadCN: Tailwind CSS se integra para un desarrollo rápido y personalización del estilo, mientras que ShadCN agrega sombras y efectos visuales atractivos.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Tecnologías Utilizadas
 
-## Deploy on Vercel
+- Next.js: React framework que facilita la creación de aplicaciones web rápidas y escalables.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Convex: Librería de estado global que simplifica la gestión del estado en aplicaciones React.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Tailwind CSS: Framework de diseño utilizable y altamente personalizable para construir interfaces de usuario modernas.
+
+- Clerk: Plataforma de autenticación y gestión de identidad que proporciona autenticación segura y sencilla.
+
+- ShadCN: Biblioteca que facilita la creación de sombras y efectos visuales para mejorar el diseño.
