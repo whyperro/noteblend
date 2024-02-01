@@ -26,4 +26,4 @@ Este proyecto es un clon de Notion desarrollado con Next.js, Convex, Tailwind CS
 
 - Clerk: Plataforma de autenticación y gestión de identidad que proporciona autenticación segura y sencilla.
 
-- ShadCN: Biblioteca que facilita la creación de sombras y efectos visuales para mejorar el diseño.
+- ShadCN: Biblioteca de componentes para un diseño minimalista y personalizable.
